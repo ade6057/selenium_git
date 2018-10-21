@@ -92,3 +92,7 @@
 2018-10-21 21:38:30,830 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\selenium git demo\GitProject\src\main\resources
 2018-10-21 21:38:30,845 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-10-21 21:38:30,861 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\selenium git demo\GitProject\src\test\resources
+2018-10-21 21:44:55,736 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 21:44:55,736 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\selenium git demo\GitProject\src\main\resources
+2018-10-21 21:44:55,752 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 21:44:55,752 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\selenium git demo\GitProject\src\test\resources
