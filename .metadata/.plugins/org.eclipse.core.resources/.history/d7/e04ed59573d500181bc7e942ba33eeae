@@ -1,0 +1,5 @@
+package qa.ebay.account;
+
+public class AccountDetails {
+
+}
