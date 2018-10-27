@@ -8,6 +8,8 @@ public class LoginTest {
 	public void login(){
 		
 		System.out.println("usrename and password");
+		System.out.println("usrename ade and password kunle");
+		System.out.println("usrename  pushaand password j");
 	}
 
 }
